@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>
+Final-year Computer Science engineering student (2026) with strong foundation in Data Structures, Algorithms, and Object-Oriented Programming. Experienced in building backend and full-stack applications using Python, FastAPI, and databases. Passionate about developing scalable software solutions and eager to begin career as a Software Development Engineer in a growth-oriented environment. <br>
 
 
 ## 🌐 Socials:
